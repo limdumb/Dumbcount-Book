@@ -1,16 +1,8 @@
-import './App.css';
-import { DemoButton } from "./components/DemoButton";
+import "./App.css";
+import { Header } from "./components/Header";
 
 function App() {
-  return (
-    <div>
-      <DemoButton
-        name={"커스텀 버튼"}
-        backgroundColor={'blue'}
-        color={'white'}
-      />
-    </div>
-  )
+  return <Header></Header>
 }
 
 export default App;
