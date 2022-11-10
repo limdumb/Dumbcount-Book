@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+### Todo
+#### 📘 우선순위 목록 📘
+* [ ] 지출 항목을 추가 할 수 있다.
+* [ ] 지출 항목을 삭제 할 수 있다.
+* [ ] 지출 항목을 수정 할 수 있다.
+* [ ] 날짜별 지출 목록을 볼 수 있다.
+* [ ] 아무 내용 없이 지출목록을 추가 할 수 없어야 한다
+* [ ] 한달 단위의 수입을 입력/추가 할 수 있다
+* [ ] Selector를 통해 자주 지출목록에 추가하는 항목들을 직접 추가/삭제 할 수 있다
+* [ ] 지출목록 추가 Selector에 기타/직접입력 카테고리 탭으로 직접 내용을 추가 할 수 있다.
+* [ ] 3달의 지출 내역을 Tab으로 구현해서 볼 수 있다.
+- - -
+* [ ] 한달 단위의 지출 통계를 볼 수 있다
+* [ ] 특정한 지출을 검색 할 수 있다
+* [ ] 지정한 날짜부터 지정한 날짜 까지의 지출 내역을 볼 수 있다.
+* [ ] 추가적인 수입도 추가 해서 기존 입력값에 합산 할 수 있다.
+* [ ] 달을 각각 선택해서 지출변동사항을 확인 할 수있다.
+* [ ] 항목들의 수치를 그래프로 확인 할 수있다.
+* [ ] 지출의 단위를 페이지네이션으로 볼 수 있다
+---
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 공통 컴포넌트
+* [ ] 상단 App Bar 컴포넌트
+* [ ] Drawer 컴포넌트 (App Bar 의 메뉴 버튼을 클릭했을 때 상호작용 할 수 있는)
+* [ ] 캘린더 컴포넌트
+* [ ] 모달 컴포넌트 (지현)
+* [ ] 셀렉터 컴포넌트
+* [ ] 인풋 컴포넌트 (지현)
+* [ ] 버튼 컴포넌트 (지현)
+* [ ] 리스트 컴포넌트 (지현)
