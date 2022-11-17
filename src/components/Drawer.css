@@ -1,0 +1,30 @@
+.Drawer__Container {
+  width: 40%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: gray;
+  padding: 50px;
+}
+
+.Drawer__Container > .Setting__Content{
+  display: flex;
+  align-items: flex-end;
+  height: 100%;
+}
+
+.Setting__Content > span{
+  margin-bottom: 5px;
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.Drawer__Content{
+  list-style: none;
+  font-size: 28px;
+  margin-bottom: 15px;
+}
+
+ul{
+  padding: 0px;
+}
